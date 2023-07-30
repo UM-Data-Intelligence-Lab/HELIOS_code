@@ -38,7 +38,7 @@ parser.add_argument('--attention_dropout_prob', type=float, default=0.1,help="")
 parser.add_argument('--num_edges', type=int, default=5,help="")
 parser.add_argument('--sparsifier', type=int, default=10,help="")
 args = parser.parse_args()
-args.dataset='../data/'+args.dataset
+args.dataset='./data/'+args.dataset
 
 class EDataset(Dataset.Dataset):
     def __init__(self, data,type_num,device):
