@@ -16,6 +16,7 @@ The datasets are available here: https://www.dropbox.com/s/iz5wxp0uldx5i05/data.
 
 ###### Parameter setting:
 In `run.py`, you can set:
+
 `--dataset`: input dataset
 
 `--epochs`: number of training epochs
