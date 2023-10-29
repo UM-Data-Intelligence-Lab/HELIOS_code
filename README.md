@@ -47,7 +47,7 @@ If you use our code or datasets, please cite:
   title={HELIOS: Hyper-Relational Schema Modeling from Knowledge Graphs},
   author={Lu, Yuhuan and Deng, Bangchao and Yu, Weijian and Yang, Dingqi},
   booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
-  pages={xxxx--xxxx},
+  pages={4053--4064},
   year={2023}
 }
 ```
